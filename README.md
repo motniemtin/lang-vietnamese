@@ -1,1 +1,1 @@
-# lang-vietnamese
+# Vietnamese extention for Flarum
