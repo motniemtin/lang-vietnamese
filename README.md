@@ -17,3 +17,21 @@ Vietnamese language pack for Flarum and some supported extensions
 
 ### Extentions supported
 - Flarum (Core v0.1.0 beta.11.1)
+  - Akismet
+  - Approval
+  - Auth Facebook
+  - Auth Github
+  - Auth Twitter
+  - Emoji
+  - Flags
+  - Likes
+  - Lock
+  - Markdown
+  - Mentions
+  - Pusher
+  - Statistics
+  - Sticky
+  - Supcriptions
+  - Suspend
+  - Tags
+
