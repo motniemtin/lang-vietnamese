@@ -1,9 +1,16 @@
 {
     "name": "datlechin/lang-vietnamese",
     "type": "flarum-extension",
-    "description": "Vietnamese language pack.",
-    "keywords": ["locale"],
+    "description": "Vietnamese language pack 2020 (datlechin).",
+    "keywords": ["locale", "flarum", "Vietnamese", "Tiếng Việt", "translation"],
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Ngo Quoc Dat & datlechin",
+            "email": "datlechin@gmail.com",
+            "homepage": "https://vieit.net"
+        }
+    ],
     "require": {
         "flarum/core": "^0.1.0-beta.9"
     },
