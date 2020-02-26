@@ -3,10 +3,10 @@ Vietnamese language pack for Flarum and some supported extensions
 
 ## Infomation
 ### Installation/Update
-`composer require littlegolden/flarum-lang-japanese`
+`composer require datlechin/lang-vietnamese`
 
 ### Remove
-`composer remove littlegolden/flarum-lang-japanese`
+`composer remove datlechin/lang-vietnamese
 
 ### Clear Cache
 `php flarum cache:clear`
