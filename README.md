@@ -6,7 +6,7 @@ Vietnamese language pack for Flarum and some supported extensions
 `composer require datlechin/lang-vietnamese`
 
 ### Remove
-`composer remove datlechin/lang-vietnamese
+`composer remove datlechin/lang-vietnamese`
 
 ### Clear Cache
 `php flarum cache:clear`
