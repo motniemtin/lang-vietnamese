@@ -8,3 +8,5 @@ Vietnamese language pack for Flarum and some supported extensions
 
 ### Extentions supported
 - Flarum (Core v0.1.0 beta.11.1)
+  - Subitem
+  - Subitem
