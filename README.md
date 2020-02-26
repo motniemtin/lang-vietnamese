@@ -12,7 +12,7 @@ Vietnamese language pack for Flarum and some supported extensions
 `php flarum cache:clear`
 
 ### Required version
-- 0.1.0-beta.9
+- 0.1.0-beta.9 or later
 - Released on November 28, 2019
 
 ### Extentions supported
