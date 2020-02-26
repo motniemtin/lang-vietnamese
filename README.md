@@ -1,6 +1,8 @@
 ## Vietnamese extention for Flarum v0.0.1
 Vietnamese language pack for Flarum and some supported extensions
 
+[![Latest Stable Version](https://img.shields.io/packagist/v/datlechin/lang-vietnamese.svg)](https://packagist.org/packages/datlechin/lang-vietnamese)
+
 ## Infomation
 ### Installation/Update
 `composer require datlechin/lang-vietnamese`
