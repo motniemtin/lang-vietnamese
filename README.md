@@ -16,7 +16,7 @@ Vietnamese language pack for Flarum and some supported extensions
 - Released on November 28, 2019
 
 ### Extentions supported
-- Flarum (Core v0.1.0 beta.11.1)
+- Flarum
   - Akismet
   - Approval
   - Auth Facebook
@@ -34,4 +34,3 @@ Vietnamese language pack for Flarum and some supported extensions
   - Supcriptions
   - Suspend
   - Tags
-
