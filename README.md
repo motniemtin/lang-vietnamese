@@ -19,23 +19,23 @@ Gói ngôn ngữ tiếng Việt cho Flarum và một số tiện ích mở rộn
 ### Tiện ích được hỗ trợ/Extentions supported
 <details>
 <summary>Flarum</summary>
-<summary>- Akismet</summary>
-<summary>- Approval</summary>
-<summary>- Auth Facebook</summary>
-<summary>- Auth Github</summary>
-<summary>- Auth Twitter</summary>
-<summary>- Emoji</summary>
-<summary>- Flags</summary>
-<summary>- Likes</summary>
-<summary>- Lock</summary>
-<summary>- Markdown</summary>
-<summary>- Mentions</summary>
-<summary>- Pusher</summary>
-<summary>- Statistics</summary>
-<summary>- Sticky</summary>
-<summary>- Supcriptions</summary>
-<summary>- Suspend</summary>
-<summary>- Tags</summary>
+- Akismet
+- Approval
+- Auth Facebook
+- Auth Github
+- Auth Twitter
+- Emoji
+- Flags
+- Likes
+- Lock
+- Markdown
+- Mentions
+- Pusher
+- Statistics
+- Sticky
+- Supcriptions
+- Suspend
+- Tags
 </details>
 ### Ảnh chụp màn hình/Sreenshort
 ![](https://i.imgur.com/qEJiIdO.png)
