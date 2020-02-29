@@ -1,0 +1,67 @@
+fof-byobu:
+    forum:
+        badges:
+            is_private:
+                tooltip: Thảo luận riêng
+        buttons:
+            add_recipients: Người nhận
+            submit: OK
+            edit_recipients: Chỉnh sửa người nhận
+            send_pd: "Gửi {username} một tin nhắn"
+            cancel: Cancel
+        composer_private_discussion:
+            submit_button: Đăng thảo luận riêng
+            title_placeholder: Tiêu đề thảo luận riêng
+        labels:
+            recipients: "{count} Người nhận|{count} Người nhận"
+            user_deleted: -đã xóa-
+        nav:
+            private_discussions: Thảo luận riêng
+            start_button: Thảo luận riêng tư mới
+        input:
+            search_recipients: Tìm kiếm người nhận bằng cách nhập ba ký tự đầu tiên ...
+        search:
+            headings:
+                groups: Nhóm quyền
+        modal:
+            titles:
+                update_recipients: Cập nhật người nhận của {title}
+                add_recipients: Thêm người nhận vào cuộc thảo luận của bạn
+            help:
+                add_recipients: Thảo luận này sẽ chỉ hiển thị cho người dùng bạn chọn ở đây. Cần ít nhất 1 người nhận (không phải chính bạn)
+                update_recipients: Thảo luận này sẽ chỉ hiển thị cho người dùng bạn chọn ở đây.
+        post:
+            recipients_modified:
+                added_and_removed: "{username} đã thêm người nhận {added} và đã xóa {removed}."
+                added: "{username} đã thêm người nhận {added}."
+                removed: "{username} đã xóa người nhận {removed}."
+        user:
+            settings:
+                block_pd: Chặn các cuộc thảo luận riêng tư
+
+            byobu_link: Thảo luận riêng
+            dropdown_label: Thảo luận riêng
+
+        notifications:
+            pd_label: Ai đó bao gồm tôi trong một cuộc thảo luận riêng tư mới
+            pd_reply_label: Ai đó đăng bài trong một cuộc thảo luận riêng tư Tôi là người nhận
+            pd_reply_text: "{username} đã đăng trong một cuộc thảo luận riêng tư bạn là một phần của"
+            pd_text: "{username} đã bắt đầu một cuộc thảo luận riêng tư mới với bạn"
+
+    admin:
+        permission:
+            create_private_discussions_with_users: Tạo các cuộc thảo luận riêng tư với người dùng
+            create_private_discussions_with_groups: Create private discussions with groups
+            create_private_discussions_with_blocking_users: Tạo các cuộc thảo luận riêng tư với người dùng chặn nó
+            edit_user_recipients: Chỉnh sửa người dùng tham gia vào các cuộc thảo luận riêng tư
+            edit_group_recipients: Chỉnh sửa các nhóm tham gia vào các cuộc thảo luận riêng tư
+            view_private_discussions-when-flagged: Xem các cuộc thảo luận riêng tư của người dùng khác nếu được gắn cờ
+
+        settings:
+            nothing_here: Không có gì để xem ở đây
+
+    notifications:
+        private_discussion_created:
+            title: "[Thảo luận riêng tư] người dùng bắt đầu một cuộc thảo luận riêng tư mới với bạn"
+        private_discussion_replied:
+            title: "[Thảo luận riêng tư] người dùng đăng trong một cuộc thảo luận riêng tư"

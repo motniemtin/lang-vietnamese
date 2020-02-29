@@ -1,0 +1,28 @@
+fof-best-answer:
+  admin:
+    permissions:
+      best_answer: Chọn câu trả lời hay nhất (Thảo luận riêng)
+      best_answer_not_own_discussion: Chọn câu trả lời hay nhất (không phải thảo luận riêng)
+    settings:
+      title: Câu trả lời hay nhất
+      allow_select_own_post: Cho phép người dùng chọn bài đăng của riêng họ
+      select_best_answer_reminder_days: Nhắc người dùng chọn câu trả lời hay nhất sau X ngày
+      schedule_on_one_server: Sử dụng chỉ thị 'onOneServer()' cho trình lập lịch tác vụ (yêu cầu Redis/Memcache)
+      schedule_stop_overnight: Ngăn lịch trình nhắc nhở chạy trong giờ không xã hội (9 giờ tối - 8 giờ sáng máy chủ)
+      schedule_log_output: Nối đầu ra lịch trình vào lưu trữ nhật ký
+      remind_tag_ids: Để hạn chế lời nhắc đối với các thẻ cụ thể, hãy nhập ID thẻ tại đây (được phân tách bằng dấu phẩy)
+      use_alt_ui: Sử dụng bố cục thay thế (nút trả lời tốt nhất trong phần chân trang)
+  forum:
+    answered_badge: Đã trả lời
+    this_best_answer: Chọn câu trả lời hay nhất
+    remove_best_answer: Bỏ chọn câu trả lời hay nhất
+    best_answer_button: Câu trả lời hay nhất
+    best_answer_label: được chọn bởi <a>{username}</a> {time_set}
+
+    notification:
+      content: Vui lòng chọn một câu trả lời hay nhất nếu câu hỏi của bạn đã được trả lời
+      awarded: Bài viết của bạn đã được đặt là câu trả lời hay nhất bởi {username}
+      awarded_email: Bài đăng của bạn được đặt là câu trả lời hay nhất của người dùng
+      select_email_title: Bạn đã quản lý để sắp xếp vấn đề của bạn?
+      preferences:
+        awarded_best_answer: Khi ai đó đặt bài viết của tôi là một câu trả lời hay nhất
