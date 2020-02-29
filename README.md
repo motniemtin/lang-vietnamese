@@ -42,6 +42,7 @@ Gói ngôn ngữ tiếng Việt cho Flarum và một số tiện ích mở rộn
     
 <details>
   <summary>FoF</summary>
+  <ul>
     <li>Best Answe</li>
     <li>Byobu</li>
     <li>Drafts</li>
@@ -55,6 +56,7 @@ Gói ngôn ngữ tiếng Việt cho Flarum và một số tiện ích mở rộn
     <li>Upload</li>
     <li>User Bio</li>
     <li>User Directory</li>
+  </ul> 
 </details>
 
 ### Ảnh chụp màn hình/Sreenshort
