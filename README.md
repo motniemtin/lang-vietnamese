@@ -37,7 +37,22 @@ Gói ngôn ngữ tiếng Việt cho Flarum và một số tiện ích mở rộn
     <li>Supcriptions</li>
     <li>Suspend</li>
     <li>Tags</li>
-   <ul>
+  <ul>
+
+  <summary>FoF</summary>
+    <li>Best Answe</li>
+    <li>Byobu</li>
+    <li>Drafts</li>
+    <li>Links</li>
+    <li>Merge Discussions</li>
+    <li>Polls</li>
+    <li>Share Social</li>
+    <li>Social Profile</li>
+    <li>Spam block</li>
+    <li>Transliterator</li>
+    <li>Upload</li>
+    <li>User Bio</li>
+    <li>User Directory</li>
 </details>
 
 ### Ảnh chụp màn hình/Sreenshort
