@@ -17,8 +17,8 @@ Gói ngôn ngữ tiếng Việt cho Flarum và một số tiện ích mở rộn
 - 0.1.0-beta.9 hoặc cao hơn / 0.1.0-beta.9 or later
 
 ### Tiện ích được hỗ trợ/Extentions supported
-Flarum
 <details>
+<summary>Flarum</summary>
 <summary>Akismet</summary>
 <summary>Approval</summary>
 <summary>Auth Facebook</summary>
