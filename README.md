@@ -38,7 +38,9 @@ Gói ngôn ngữ tiếng Việt cho Flarum và một số tiện ích mở rộn
     <li>Suspend</li>
     <li>Tags</li>
   <ul>
-
+</details>
+    
+<details>
   <summary>FoF</summary>
     <li>Best Answe</li>
     <li>Byobu</li>
