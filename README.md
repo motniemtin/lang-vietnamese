@@ -18,8 +18,8 @@ Gói ngôn ngữ tiếng Việt cho Flarum và một số tiện ích mở rộn
 
 ### Tiện ích được hỗ trợ/Extentions supported
 <details>
-<summary>- Flarum</summary>
-<summary>- Akismet</summary>
+<summary>Flarum</summary>
+- <summary>Akismet</summary>
 <summary>- Approval</summary>
 <summary>- Auth Facebook</summary>
 <summary>- Auth Github</summary>
