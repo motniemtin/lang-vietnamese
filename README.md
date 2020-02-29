@@ -37,6 +37,7 @@ Gói ngôn ngữ tiếng Việt cho Flarum và một số tiện ích mở rộn
     <li>Supcriptions</li>
     <li>Suspend</li>
     <li>Tags</li>
+   <ul>
 </details>
 ### Ảnh chụp màn hình/Sreenshort
 ![](https://i.imgur.com/qEJiIdO.png)
