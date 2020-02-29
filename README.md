@@ -18,25 +18,25 @@ Gói ngôn ngữ tiếng Việt cho Flarum và một số tiện ích mở rộn
 
 ### Tiện ích được hỗ trợ/Extentions supported
 <details>
-<summary>Flarum</summary>
-<ul>
-  <li>Akismet</li>
-- Approval
-- Auth Facebook
-- Auth Github
-- Auth Twitter
-- Emoji
-- Flags
-- Likes
-- Lock
-- Markdown
-- Mentions
-- Pusher
-- Statistics
-- Sticky
-- Supcriptions
-- Suspend
-- Tags
+  <summary>Flarum</summary>
+  <ul>
+    <li>Akismet</li>
+    <li>Approval</li>
+    <li>Auth Facebook</li>
+    <li>Auth Github</li>
+    <li>Auth Twitter</li>
+    <li>Emoji</li>
+    <li>Flags</li>
+    <li>Likes</li>
+    <li>Lock</li>
+    <li>Markdown</li>
+    <li>Mentions</li>
+    <li>Pusher</li>
+    <li>Statistics</li>
+    <li>Sticky</li>
+    <li>Supcriptions</li>
+    <li>Suspend</li>
+    <li>Tags</li>
 </details>
 ### Ảnh chụp màn hình/Sreenshort
 ![](https://i.imgur.com/qEJiIdO.png)
