@@ -1,4 +1,4 @@
-## Vietnamese extention for Flarum v0.0.1
+## Vietnamese extention for Flarum v0.0.2
 Gói ngôn ngữ tiếng Việt cho Flarum và một số tiện ích mở rộng được hỗ trợ
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/datlechin/lang-vietnamese.svg)](https://packagist.org/packages/datlechin/lang-vietnamese)
