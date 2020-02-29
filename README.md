@@ -63,4 +63,8 @@ Gói ngôn ngữ tiếng Việt cho Flarum và một số tiện ích mở rộn
 ![](https://i.imgur.com/qEJiIdO.png)
 ![](https://i.imgur.com/OKqf38k.png)
 
-- My Forum: [VieIT.Net](https://vieit.net)
+### Links
+- [Forum](https://vieit.net)
+- [Github](https://github.com/datlechin/lang-vietnamese)
+- [Packagist](https://packagist.org/packages/datlechin/lang-vietnamese)
+- [Flagrow](https://flagrow.io/extensions/datlechin/lang-vietnamese)
