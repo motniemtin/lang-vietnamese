@@ -18,7 +18,7 @@ Gói ngôn ngữ tiếng Việt cho Flarum và một số tiện ích mở rộn
 
 ### Tiện ích được hỗ trợ/Extentions supported
 <details>
-  <summary>Flarum</summary>
+  <summary>**Flarum**</summary>
   <ul>
     <li>Akismet</li>
     <li>Approval</li>
