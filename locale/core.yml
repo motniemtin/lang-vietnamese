@@ -361,7 +361,7 @@ core:
       discussion_renamed_text: "{username} đã thay đổi tiêu đề thành {new}."
       load_more_button: => core.ref.load_more
       reply_placeholder: => core.ref.write_a_reply
-      time_lapsed_text: "{period} một lát sau"
+      time_lapsed_text: "{period} trước"
 
     # These translations are used by the rename discussion modal.
     rename_discussion:
