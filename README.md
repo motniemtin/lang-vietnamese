@@ -70,7 +70,7 @@ Gói ngôn ngữ tiếng Việt cho Flarum và một số tiện ích mở rộn
     <li><a href="https://flagrow.io/extensions/irony/flarum-ext-login2see">Login to See</a></li>
     <li><a href="https://flagrow.io/extensions/kvothe/reply-to-see">Reply2See</a></li>
     <li><a href="https://flagrow.io/extensions/michaelbelgium/flarum-discussion-views">Discussion views</a></li>
-    <li><a href="https://flagrow.io/extensions/reflar/level-ranks"Level Ranks</a></li>
+    <li><a href="https://flagrow.io/extensions/reflar/level-ranks">Level Ranks</a></li>
     <li><a href="https://flagrow.io/extensions/therealsujitk/flarum-ext-gifs">GIFs</a></li>
     <li><a href="https://flagrow.io/extensions/xelson/flarum-ext-chat">Neon Chat</a></li>
   </ul> 
