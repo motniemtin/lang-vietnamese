@@ -1,7 +1,11 @@
 ## Vietnamese extention for Flarum v0.0.2
 Gói ngôn ngữ tiếng Việt cho Flarum và một số tiện ích mở rộng được hỗ trợ
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/datlechin/lang-vietnamese.svg)](https://packagist.org/packages/datlechin/lang-vietnamese)
+![](https://img.shields.io/badge/license-MIT-blue.svg)
+
+![](https://img.shields.io/packagist/v/datlechin/lang-vietnamese.svg)
+
+![](https://img.shields.io/packagist/dt/datlechin/lang-vietnamese.svg)
 
 ## Thông tin/Infomation
 ### Cài đặt, Cập nhật/Installation, Update
@@ -59,12 +63,21 @@ Gói ngôn ngữ tiếng Việt cho Flarum và một số tiện ích mở rộn
   </ul> 
 </details>
 
-### Ảnh chụp màn hình/Sreenshort
-![](https://i.imgur.com/qEJiIdO.png)
-![](https://i.imgur.com/OKqf38k.png)
+<details>
+  <summary>Others</summary>
+  <ul>
+    <li><a href="https://flagrow.io/extensions/askvortsov/flarum-categories">Flarum Categories</a></li>
+    <li><a href="https://flagrow.io/extensions/irony/flarum-ext-login2see">Login to See</a></li>
+    <li><a href="https://flagrow.io/extensions/kvothe/reply-to-see">Reply2See</a></li>
+    <li><a href="https://flagrow.io/extensions/michaelbelgium/flarum-discussion-views">Discussion views</a></li>
+    <li><a href="https://flagrow.io/extensions/reflar/level-ranks"Level Ranks</a></li>
+    <li><a href="https://flagrow.io/extensions/therealsujitk/flarum-ext-gifs"GIFs</a></li>
+    <li><a href="https://flagrow.io/extensions/xelson/flarum-ext-chat">Neon Chat</a></li>
+  </ul> 
+</details>
 
 ### Links
-- [Forum](https://vieit.net)
+- [My Forum](https://vieit.net)
 - [Github](https://github.com/datlechin/lang-vietnamese)
 - [Packagist](https://packagist.org/packages/datlechin/lang-vietnamese)
 - [Flagrow](https://flagrow.io/extensions/datlechin/lang-vietnamese)
