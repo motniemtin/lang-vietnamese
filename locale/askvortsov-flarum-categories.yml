@@ -1,0 +1,24 @@
+askvortsov-categories:
+  admin:
+    basics:
+      categories_label: Danh mục
+    labels:
+      keep_tags_nav: Không xóa liên kết trang thẻ từ thanh bên điều hướng
+      parent_remove_icon: Không hiển thị biểu tượng cho các thẻ cấp cao nhất trên trang danh mục
+      parent_remove_description: Không hiển thị các cuộc thảo luận cho các thẻ cấp cao nhất trên trang danh mục
+      parent_remove_stats: Không hiển thị số liệu thống kê cho các thẻ cấp cao nhất trên trang danh mục
+      parent_remove_last_discussion: Không hiển thị các cuộc thảo luận gần đây nhất cho các thẻ cấp cao nhất trên trang danh mục
+    title: Cài đặt danh mục
+  forum:
+    categories:
+    header:
+      back_to_categories_tooltip: Quay lại danh mục
+    index:
+      categories_link: Danh mục
+    meta:
+      categories_title: Danh mục
+    stat-widgets:
+      discussion_label: Thảo luận
+      post_label: Posts
+    last_discussion_widget:
+      no_discussions: Không có thảo luận!

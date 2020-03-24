@@ -1,0 +1,26 @@
+core:
+  forum:
+    index_sort:
+      popular_button: Phổ biến
+      unpopular_button: Không phổ biến
+
+flarum_discussion_views:
+  forum:
+    modal_resetviews:
+      title: Đặt lại số lượt xem thảo luận
+      submit: Đặt lại lượt xem
+      label: Điều này sẽ xóa {count} lượt xem của cuộc thảo luận này. Tiếp tục? | Điều này sẽ xóa {count} lượt xem của cuộc thảo luận này. Tiếp tục?
+    discussion_controls:
+      resetviews_button: Đặt lại lượt xem
+    viewlist:
+      title: Người xem mới nhất
+  admin:
+      permissions:
+        reset_views_label: Đặt lượt xem thảo luận
+      settings:
+        title: Cài đặt lượt xem thảo luận
+        track_unique: Theo dõi lượt xem độc đáo
+        abbr_numbers: Viết tắt số xem
+        show_filter: Cho phép (un) trường sắp xếp phổ biến
+        max_viewcount: Mục danh sách xem tối đa
+        show_viewlist: Bật danh sách xem

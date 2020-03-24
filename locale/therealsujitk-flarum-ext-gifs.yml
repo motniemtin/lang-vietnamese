@@ -1,0 +1,13 @@
+therealsujitk:
+  forum:
+    gifs:
+      label: 'Nhập GIF'
+      title: 'Chọn GIF'
+      searchbar: 'Tìm kiếm GIFs'
+      search: 'Tìm kiếm'
+      loading: 'Đang tải...'
+      noresults: 'Không có kết quả'
+  admin:
+    gifs:
+      title: 'Cài đặt API GIF'
+      giphyAPIkey: 'Key API Giphy'

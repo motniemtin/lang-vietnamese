@@ -1,0 +1,11 @@
+reflar-level-ranks: 
+  admin: 
+    settings: 
+      levelText: "Nhập văn bản sẽ được hiển thị cho các điểm (ví dụ: Xếp hạng, Cấp độ)"
+      title: "Cài đặt cấp bậc"
+  forum: 
+    desc: 
+      expText: EXP
+  lib: 
+    defaults: 
+      level: "Cấp độ"

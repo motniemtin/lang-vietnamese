@@ -1,0 +1,34 @@
+pushedx-chat:
+  forum:
+    toolbar:
+      title: Chat
+      enable_sounds: Bật âm thanh
+      disable_sounds: Tắt âm thanh
+      enable_notifications: Bật thông báo
+      disable_notifications: Tắt thông báo
+      minimize: Giảm thiểu
+      maximize: Tối đa
+    chat:
+      placeholder: Gõ tin nhắn của bạn...
+      message:
+        actions:
+          hide: Ẩn
+          resend: Gửi lại
+    errors:
+      unauthenticated: Chỉ người dùng đã đăng ký mới có thể sử dụng trò chuyện
+      chatdenied: Nhóm người dùng của bạn không được phép viết tin nhắn
+  admin:
+    permissions:
+      post: Gửi tin nhắn trò chuyện
+      edit: Chỉnh sửa tin nhắn trò chuyện
+      delete: Xóa tin nhắn trò chuyện
+      moderate:
+        delete: Xóa tin nhắn trò chuyện
+
+    settings:
+      title: Cài đặt trò chuyện
+      charlimit: Tối đa ký tự trong tin nhắn
+      floodgate:
+        title: Antiflood
+        number: Số lượng tin nhắn liên tiếp
+        time: Trong khoảng thời gian
