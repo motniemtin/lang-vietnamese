@@ -2,7 +2,9 @@
 Gói ngôn ngữ tiếng Việt cho Flarum và một số tiện ích mở rộng được hỗ trợ
 
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
+
 ![](https://img.shields.io/packagist/v/datlechin/lang-vietnamese.svg)
+
 ![](https://img.shields.io/packagist/dt/datlechin/lang-vietnamese.svg)
 
 ## Thông tin/Infomation
