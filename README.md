@@ -3,16 +3,16 @@ Gói ngôn ngữ tiếng Việt cho Flarum và một số tiện ích mở rộn
 
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
-![](https://img.shields.io/packagist/v/datlechin/lang-vietnamese.svg)
+![](https://img.shields.io/packagist/v/motniemtin/lang-vietnamese.svg)
 
-![](https://img.shields.io/packagist/dt/datlechin/lang-vietnamese.svg)
+![](https://img.shields.io/packagist/dt/motniemtin/lang-vietnamese.svg)
 
 ## Thông tin/Infomation
 ### Cài đặt, Cập nhật/Installation, Update
-`composer require datlechin/lang-vietnamese`
+`composer require motniemtin/lang-vietnamese`
 
 ### Xóa/Remove
-`composer remove datlechin/lang-vietnamese`
+`composer remove motniemtin/lang-vietnamese`
 
 ### Xóa cache/Clear Cache
 `php flarum cache:clear`
@@ -78,6 +78,6 @@ Gói ngôn ngữ tiếng Việt cho Flarum và một số tiện ích mở rộn
 
 ### Links
 - [My Forum](https://vieit.net)
-- [Github](https://github.com/datlechin/lang-vietnamese)
-- [Packagist](https://packagist.org/packages/datlechin/lang-vietnamese)
-- [Flagrow](https://flagrow.io/extensions/datlechin/lang-vietnamese)
+- [Github](https://github.com/motniemtin/lang-vietnamese)
+- [Packagist](https://packagist.org/packages/motniemtin/lang-vietnamese)
+- [Flagrow](https://flagrow.io/extensions/motniemtin/lang-vietnamese)
