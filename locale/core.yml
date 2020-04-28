@@ -313,7 +313,7 @@ core:
       newest_button: Gần nhất
       oldest_button: Cũ nhất
       relevance_button: Liên quan
-      top_button: Trên cùng
+      top_button: Hay nhất
 
     # These translations are used in the Log In modal dialog.
     log_in:
