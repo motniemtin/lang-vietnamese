@@ -79,4 +79,4 @@ fof-upload:
     states:
       error: Lỗi
       loading: Đang tải lên
-      unauthorized: Bạn không được phép tải tập tin
+      unauthorized: Để tải về, Bạn cần đăng ký Thành viên của Making.vn
